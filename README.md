@@ -3,6 +3,14 @@
 
 I am a Software Developer focusing on Web Development and Game Development.
 
+---
+
+### 🎓 &nbsp;Education :
+M.Sc. Computer Science - LMU Munich
+
+B.Sc. Computer Science plus Computational linguistics - LMU Munich
+
+<img src="https://cms-cdn.lmu.de/assets/img/Logo_LMU.svg" title="LMU" alt="LMU" width="80" height="40"/>
 
 ---
 
@@ -21,6 +29,8 @@ I am a Software Developer focusing on Web Development and Game Development.
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
+
 
 <!--
 **Vasil4N/vasil4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
